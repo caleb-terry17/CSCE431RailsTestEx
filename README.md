@@ -4,7 +4,7 @@ The purpose of this repository is to showcase some of the basics of testing in R
 
 ## Video
 
-
+https://youtu.be/eXmA1vWGDfs
 
 ## Testing
 
