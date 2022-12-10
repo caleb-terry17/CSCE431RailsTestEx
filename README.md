@@ -1,24 +1,7 @@
-# README
+# TAMU - CSCE 431: Educational Video
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this repository is to showcase some of the basics of testing in Ruby on Rails applications. It covers Unit, Integration (Feature), View, and Requests tests which can all be found in the "spec" folder. 
 
-Things you may want to cover:
+## Testing
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Execute "rspec spec" to run the tests. 
