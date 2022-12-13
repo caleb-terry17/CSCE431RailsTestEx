@@ -12,4 +12,4 @@ Execute "rspec spec" to run the tests.
 
 ## Questions
 
-Please refer to the "Outline.pdf" file in the root directory of the repo
+Please refer to the <a href="https://github.com/caleb-terry17/CSCE431_RailsTestEx/blob/master/Outline.pdf">"Outline.pdf"</a> file in the root directory of the repo
